@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project applies graph theory and mathematical modeling to model and solve the Vehicle Routing Problem (VRP) for relief goods distribution across 51 barangays in the Municipality of Malolos, Bulacan. We implement the Clark-Wright Savings Algorithm to generate optimized multi-stop delivery routes from the Municipal Hall (depot), minimizing total travel time while respecting vehicle capacity constraints of 2,500 units per truck.
+This project applies graph theory and mathematical modeling to model and solve the Vehicle Routing Problem (VRP) for the relief goods distribution across 51 barangays in the City of Malolos, Bulacan. We implement the Clark-Wright Savings Algorithm to generate optimized multi-stop delivery routes from the Municipal Hall (depot) to all 5 barangays, minimizing total travel time while respecting vehicle capacity constraints of 2,500 units per truck.
 
 ## How to Run
 
