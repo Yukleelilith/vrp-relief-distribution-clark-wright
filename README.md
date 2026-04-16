@@ -6,8 +6,10 @@
 
 This project applies graph theory and mathematical modeling to model and solve the Vehicle Routing Problem (VRP) for the relief goods distribution across 51 barangays in the City of Malolos, Bulacan. We implement the Clark-Wright Savings Algorithm to generate optimized multi-stop delivery routes from the Municipal Hall (depot) to all 5 barangays, minimizing total travel time while respecting vehicle capacity constraints of 2,500 units per truck.
 
-## How to Run
+## How to use
 
-```
-python clark_wright_vrp.py
+Run the python code `blood_distribution.py` using any python compiler.
+
+```bash
+python blood_distribution.py
 ```
