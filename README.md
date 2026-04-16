@@ -11,7 +11,3 @@ This project applies graph theory and mathematical modeling to model and solve t
 ```
 python clark_wright_vrp.py
 ```
-
-## Folder Structure
-
-- `clark_wright_vrp.py` — Main solver: matrix builder, savings algorithm, and report printer
