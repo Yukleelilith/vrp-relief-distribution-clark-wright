@@ -1,4 +1,4 @@
-# Clark-Wright VRP — Relief Goods Distribution (Peñaranda)
+# Clark-Wright VRP — Relief Goods Distribution (City of Malolos)
 
 **Application of Graph Theory in the Optimization of Relief Goods Distribution — BSM CS 3A**
 
