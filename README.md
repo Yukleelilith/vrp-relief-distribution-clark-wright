@@ -8,5 +8,5 @@ This project applies graph theory and mathematical modeling to model and solve t
 
 ## How to use
 
-Run this python code `blood_distribution.py` using any python compiler.
+Run this python code `clark_wright_vrp.py` using any python compiler.
 
